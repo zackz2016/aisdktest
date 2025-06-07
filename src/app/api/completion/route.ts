@@ -1,3 +1,4 @@
+// src/app/api/completion/route.ts
 import { generateText } from 'ai';
 import { google } from '@ai-sdk/google';
 
